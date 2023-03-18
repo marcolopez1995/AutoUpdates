@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="FastFoodPOS">
 		<version>2.0.0.0</version>
-		<url>http://ertcdeholdings.somee.com/FastFoodPOS.exe</url>
+		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>a4ac1069664991672970240f72d5d10c</md5>
 		<description>Initial Update</description>
