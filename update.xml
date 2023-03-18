@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>3.0.0.0</version>
+		<version>1.0.0.0</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>6e5e2f6d73a1c59fbf36f02c15857b6c</md5>
+		<md5>015734c990f42a31a9072f64cc755723</md5>
 		<description>Update cashier panel</description>
 		<launchArgs></launchArgs>
 	</update>
