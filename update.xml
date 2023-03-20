@@ -5,7 +5,7 @@
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>5c11e261ed84e7687dbf5fa3bc5c464e</md5>
-		<description>Added ability to view specific items under OPEX category.<br/> Added ability to view prorated transaction dates by double clicking prorated item.\n Added ability to edit number of branch employees.\n Multiple branches daily reports generation.</description>
+		<description>Added ability to view specific items under OPEX category. Environment.NewLine Added ability to view prorated transaction dates by double clicking prorated item.\n Added ability to edit number of branch employees.\n Multiple branches daily reports generation.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
