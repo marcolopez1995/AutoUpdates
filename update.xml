@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.0.0.2</version>
+		<version>1.0.1.3</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>1302cd7d2ed468bdabb88a0df7823902</md5>
+		<md5>a6aa0c6739833d1939eece6061fb6c82</md5>
 		<description>Show app version on loading form.</description>
 		<launchArgs></launchArgs>
 	</update>
