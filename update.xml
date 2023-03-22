@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.3.8.18</version>
+		<version>1.3.8.17</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>94e3c118bce279ff6d9141563f9f1899</md5>
-		<description>=> This is a test update, please click no for now if you already have version 1.3.8.17</description>
+		<description>=> Fixed app crashed. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
