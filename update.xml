@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.2.0.6</version>
+		<version>1.2.1.8</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>5cca53646f2cd6afe884938ecff3e9f4</md5>
-		<description>=> Added search bar for OPEX. </description>
+		<md5>5167d247dab683be449b33aadd74d045</md5>
+		<description>=> Fixed bugs on daily report generation and added OPEX search text on search bar.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
