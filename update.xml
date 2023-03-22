@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.1.0.5</version>
+		<version>1.2.0.6</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>ca9a0da678775fba5475ddcb29bcf501</md5>
-		<description>> Added ability to view specific items under OPEX category. &#xA;> Added ability to view prorated transaction dates by double clicking prorated item. &#xA;> Added ability to edit number of branch employees. &#xA;> Multiple branches daily reports generation.</description>
+		<md5>5cca53646f2cd6afe884938ecff3e9f4</md5>
+		<description>=> Added search bar for OPEX. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
