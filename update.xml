@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.3.2.11</version>
+		<version>1.3.3.12</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>8bef678294639ee13dbe9993e6b1818d</md5>
+		<md5>00fa1f58b96e00cd90dc768839944f9b</md5>
 		<description>=> Fixed bugs notification during on user transactions. </description>
 		<launchArgs></launchArgs>
 	</update>
