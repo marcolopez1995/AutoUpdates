@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.6.1.24</version>
+		<version>1.7.0.25</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>73d4cad16fdd72a02479edc278386145</md5>
-		<description>=> Fixed bugs on non-sales. </description>
+		<md5>916dc1c0e107c016bde4ad878d64a3f8</md5>
+		<description>=> Can now deleted opex by item selection. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
