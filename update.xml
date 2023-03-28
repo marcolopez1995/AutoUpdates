@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.8.2.30</version>
+		<version>1.8.3.31</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4dbf609c9958d60e90c4eada12a297fa</md5>
-		<description>=> Part 3: Fixed new updates system crashed. </description>
+		<md5>b491ef499aa76661228ce021253c6a4f</md5>
+		<description>=> Removed new updates notifications. We will resume it after MANCOM for further tests. Thank you</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
