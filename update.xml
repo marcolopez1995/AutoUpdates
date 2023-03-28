@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.7.2.27</version>
+		<version>1.8.0.28</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>92ede84d9cc610bc5b6d5ab93706ada4</md5>
-		<description>=> Fixed nonsales stock transfer. </description>
+		<md5>b480a4beecbf52d89ea5185d72a1a5f0</md5>
+		<description>=> Fixed new updates system crashed. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
