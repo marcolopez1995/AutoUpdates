@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.8.4.33</version>
+		<version>1.8.5.34</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>b1428aacdd635aea7feedb0832177e38</md5>
-		<description>=> Fixed nonsales stock transfer quantity entry. Thank you</description>
+		<md5>c3d3054df5497ba58698b8f8bd91ba63</md5>
+		<description>=> Fixed nonsales stock transfer submission. Thank you</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
