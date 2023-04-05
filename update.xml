@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.9.2.37</version>
+		<version>1.9.3.38</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>e92967d8479832714b940e6cd7b39c74</md5>
-		<description>=> Fixed remaining of breading and premix unmerged.</description>
+		<md5>8e971ce3eccb4742b2d52d93dcbcd49a</md5>
+		<description>=> Part2 - Fixed bugs on remaining of breading and premix unmerged.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
