@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.9.1.36</version>
+		<version>1.9.2.37</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>826d5dec2af5d83bbd9ec89be4295716</md5>
-		<description>=> Fixed prorated datetime selection on previous month.</description>
+		<md5>e92967d8479832714b940e6cd7b39c74</md5>
+		<description>=> Fixed remaining of breading and premix unmerged.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
