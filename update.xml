@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.10.0.39</version>
+		<version>1.10.1.40</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>b3884f8f4299c4f6631f1ee2b0285ac2</md5>
+		<md5>16eabcffcff75dee4e5f0964d8711593</md5>
 		<description>=> Fixed sales supervisor generation of consolidated report. Updated on April 8, 2023 @ 7PM</description>
 		<launchArgs></launchArgs>
 	</update>
