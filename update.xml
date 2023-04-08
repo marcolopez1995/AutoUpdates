@@ -5,7 +5,7 @@
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>16eabcffcff75dee4e5f0964d8711593</md5>
-		<description>=> Fixed sales supervisor generation of consolidated report. Updated on April 8, 2023 @ 7PM</description>
+		<description>&#xA;=> Fixed sales supervisor generation of consolidated report. Updated on April 8, 2023 @ 7PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
