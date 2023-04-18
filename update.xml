@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.10.10.49</version>
+		<version>1.11.0.50</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>050f558efdddd8b61f717f300e670126</md5>
-		<description>&#xA;=> Added support for systems running on a virtual environment. Updated on April 17, 2023 @ 1PM</description>
+		<md5>de43db530cbec35b3438eaa713c71e58</md5>
+		<description>&#xA;=> Added summary mancom report for PM only. Updated on April 18, 2023 @ 5PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
