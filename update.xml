@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.11.0.50</version>
+		<version>1.11.1.51</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>de43db530cbec35b3438eaa713c71e58</md5>
-		<description>&#xA;=> Added summary mancom report for PM only. Updated on April 18, 2023 @ 5PM</description>
+		<md5>18dfcaee32c58e69c694e7adeb08768e</md5>
+		<description>&#xA;=> Added summary mancom report for FC / Sales Supervisor only. Updated on April 19, 2023 @ 5PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
