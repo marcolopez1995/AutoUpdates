@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.12.2.62</version>
+		<version>1.12.2.63</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>cb733efea2ee4c76e20a8394cbdbffe3</md5>
-		<description>&#xA; => Fixed bugs upon selecting all on daily report generation. &#xA;&#xA;Updated on May 2, 2023 @ 1PM</description>
+		<md5>9e94eee7397f98e588711f9eb494a4a3</md5>
+		<description>&#xA; => Added branch encoding status on top management. &#xA;&#xA;Updated on May 2, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
