@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.12.2.64</version>
+		<version>1.12.3.65</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>35d2d4bd5afb28b9f68ffb3b0ae5c9a6</md5>
-		<description>&#xA; => Fixed stock supports upon overwriting on it. &#xA;&#xA;Updated on May 3, 2023 @ 4PM</description>
+		<md5>4ff231cddb529fbe272817768c9efcce</md5>
+		<description>&#xA; => Fixed bugs on generating all ss consolidated report. &#xA;&#xA;Updated on May 4, 2023 @ 8AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
