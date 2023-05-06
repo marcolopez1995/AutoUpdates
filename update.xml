@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.12.5.71</version>
+		<version>1.12.5.72</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>0932da338b3de9787d499263c99650ea</md5>
-		<description>&#xA; => Fixed CK usage summary report generation. &#xA;&#xA;Updated on May 5, 2023 @ 3PM</description>
+		<md5>bd121354261b6c99adc573b024e4675f</md5>
+		<description>&#xA; => Fixed Estong usage summary report generation. &#xA;&#xA;Updated on May 6, 2023 @ 12PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
