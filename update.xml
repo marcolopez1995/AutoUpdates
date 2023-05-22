@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.14.0.89</version>
+		<version>1.14.0.90</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>8c5af438de9229f8a8472e3d7ffa9ce9</md5>
-		<description>&#xA; => Fixed some bugs on admin panel.&#xA; => Fixed problem on launching the app for Win11 22H2 version. &#xA;&#xA;Updated on May 22, 2023 @ 12PM</description>
+		<md5>40408d80b54b0f90808f61f5b27094c6</md5>
+		<description>&#xA; => Fixed bugs on cashier panel and daily report generated. &#xA;&#xA;Updated on May 22, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
