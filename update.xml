@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.14.0.92</version>
+		<version>1.14.0.93</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>d9b0d059af7a385db66164fa57a4feca</md5>
-		<description>&#xA; => Update branch selection on stock transfer. &#xA;&#xA;Updated on May 24, 2023 @ 5PM</description>
+		<md5>c16c00b83ab2fbd3714ffdb1030eb585</md5>
+		<description>&#xA; => Update on allowing stock transfer of products across line of business. &#xA;&#xA;Updated on May 25, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
