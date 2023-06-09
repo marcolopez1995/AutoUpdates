@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.14.4.102</version>
+		<version>1.14.4.103</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>48563dcf8aaebdbdbfad64bf837188d8</md5>
-		<description>&#xA; => Fixed summary generation report. &#xA;&#xA;Updated on June 9, 2023 @ 6AM</description>
+		<md5>e1b212c6d65f2f70854e6877cfc39746</md5>
+		<description>&#xA; => Fixed summary generation report. &#xA;&#xA;Updated on June 9, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
