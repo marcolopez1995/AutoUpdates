@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.15.0.105</version>
+		<version>1.15.0.107</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4cdb6afbc0eef03a785d69727189bb1e</md5>
-		<description>&#xA; => Fixed nonsales divide by zero issue. &#xA;&#xA;Updated on June 15, 2023 @ 10AM</description>
+		<md5>e478e33a559aee878fc361d0756fab6e</md5>
+		<description>&#xA; => Revert stockin process of products and nonsales. &#xA;&#xA;Updated on June 16, 2023 @ 8AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
