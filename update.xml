@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.15.0.108</version>
+		<version>1.15.0.109</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>fb2c5161f96ff2792d56f2dbadc52381</md5>
+		<md5>6ca885ac8625ce71f8139d2d18f1163f</md5>
 		<description>&#xA; => Fixed on adding limited stock transfer issue. &#xA;&#xA;Updated on June 20, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
