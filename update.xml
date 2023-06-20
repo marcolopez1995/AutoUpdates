@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.15.0.107</version>
+		<version>1.15.0.108</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>e478e33a559aee878fc361d0756fab6e</md5>
-		<description>&#xA; => Revert stockin process of products and nonsales. &#xA;&#xA;Updated on June 16, 2023 @ 8AM</description>
+		<md5>fb2c5161f96ff2792d56f2dbadc52381</md5>
+		<description>&#xA; => Fixed on adding limited stock transfer issue. &#xA;&#xA;Updated on June 20, 2023 @ 3PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
