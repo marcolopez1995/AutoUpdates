@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.15.1.111</version>
+		<version>1.15.1.112</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>84a5ff7da1a6220169d3ef660dd0f77d</md5>
-		<description>&#xA; => Auto detect dates on some forms for submitting blank entries. &#xA;&#xA;Updated on June 23, 2023 @ 4PM</description>
+		<md5>e75cc636ed82da8eeb01c3ddc302de26</md5>
+		<description>&#xA; => Fixed auto detect dates on some forms for submitting entries. &#xA;&#xA;Updated on July 01, 2023 @ 4PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
