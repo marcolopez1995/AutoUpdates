@@ -5,7 +5,7 @@
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>89d312374717521d7b4177ccf1d660f4</md5>
-		<description>&#xA; => Fixed bugs on daily and (SS & PM) consolidated report generation. &#xA;&#xA;Updated on July 09, 2023 @ 4PM</description>
+		<description>&#xA; => Fixed bugs on daily and (SS,PM) consolidated report generation. &#xA;&#xA;Updated on July 09, 2023 @ 4PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
