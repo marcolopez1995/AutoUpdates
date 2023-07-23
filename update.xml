@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.134</version>
+		<version>1.16.6.135</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>e4dc5f8dc5539978d07700a22664ce17</md5>
-		<description> &#xA; => Fixed some bugs on admin account panel. &#xA;&#xA;Updated on July 21, 2023 @ 10PM</description>
+		<md5>5b5c28f3d63f153cd5af5b1b83faabd4</md5>
+		<description> &#xA; => Fixed some bugs on admin managed products. &#xA;&#xA;Updated on July 24, 2023 @ 5AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
