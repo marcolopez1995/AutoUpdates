@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.148</version>
+		<version>1.16.6.149</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>322c126dc901240362e4e36a75d86eb6</md5>
-		<description> &#xA; => Fixed bugs on users tab for duplicates issues. &#xA;&#xA;Updated on July 31, 2023 @ 10AM</description>
+		<md5>b7b2d731f428bfd40ee64912a7f4bedf</md5>
+		<description> &#xA; => Automatic redirection to SS account after cashier logout. &#xA;&#xA;Updated on July 31, 2023 @ 11PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
