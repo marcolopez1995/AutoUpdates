@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.147</version>
+		<version>1.16.6.148</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>97dd1c213cd29ab61e80293cd07aaeb7</md5>
-		<description> &#xA; => Fixed bugs on nonsales stockout. &#xA;&#xA;Updated on July 29, 2023 @ 3PM</description>
+		<md5>322c126dc901240362e4e36a75d86eb6</md5>
+		<description> &#xA; => Fixed bugs on users tab for duplicates issues. &#xA;&#xA;Updated on July 31, 2023 @ 10AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
