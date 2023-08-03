@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.150</version>
+		<version>1.17.0.151</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>d3785cf96a58f2af95a84e2d58a6adeb</md5>
-		<description> &#xA; => Adjust UI of users and branches tabs. &#xA;&#xA;Updated on August 1, 2023 @ 4PM</description>
+		<md5>3ea7acd5e5a1cb9a55b9b4271344e2c0</md5>
+		<description> &#xA; => Fixed FIFO products on daily report generation. &#xA;&#xA;Updated on August 4, 2023 @ 12AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
