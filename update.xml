@@ -5,7 +5,7 @@
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
 		<md5>3ea7acd5e5a1cb9a55b9b4271344e2c0</md5>
-		<description> &#xA; => Fixed FIFO products on daily report generation. &#xA;&#xA;Updated on August 4, 2023 @ 12AM</description>
+		<description> &#xA; => Fixed cogs on FIFO products upon daily report generation. &#xA;&#xA;Updated on August 4, 2023 @ 12AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
