@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.17.0.156</version>
+		<version>1.17.0.157</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4126553883cf9e76fc5a4c9bde0deb6f</md5>
-		<description> &#xA; => WHAT'S NEW (As of August 16, 2023 @ 2PM) &#xA;&#xA;1. Able to overwrite Products and Nonsales Stock In.&#xA;2. Adjust generating form dialog interface. </description>
+		<md5>8441932ead67a1187abf55ecf05e6b3c</md5>
+		<description> &#xA; => WHAT'S NEW (As of August 18, 2023 @ 10PM) &#xA;&#xA;1. Fixed bugs on nonsales inventory display on cashier panel. &#xA;2. Able to view and use generation result through SS account. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
