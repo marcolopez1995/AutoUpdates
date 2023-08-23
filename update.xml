@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.17.1.160</version>
+		<version>1.17.2.161</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>563ae7fc4c1ca9028648ab8d3ebc04c0</md5>
-		<description> &#xA; => WHAT'S NEW (As of August 22, 2023 @ 9PM) &#xA;&#xA;1. Fixed some bugs on accessors from cashier panel redirecting to their respective account. </description>
+		<md5>7bd5e7af606750d5eaa63b628a65da7d</md5>
+		<description> &#xA; => WHAT'S NEW (As of August 23, 2023 @ 4PM) &#xA;&#xA;1. Fixed bugs on encoder's account for newly added cashier account.&#xA;2. Added audit account separately for generation report. &#xA;3. Able to track who generates a report both saved in the logs and files. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
