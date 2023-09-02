@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.17.2.162</version>
+		<version>1.17.2.163</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>36a798c41325063e50560b0b100f7464</md5>
-		<description> &#xA; => WHAT'S NEW (As of August 24, 2023 @ 1AM) &#xA;&#xA;1. Updated adding store products on admin panel and &#xA;2. Fixed bugs on prompt messages after changing password. </description>
+		<md5>2dee60fa2c27178465e4b13a0efbb482</md5>
+		<description> &#xA; => WHAT'S NEW (As of September 2, 2023 @ 1PM) &#xA;&#xA;1. Fixed bugs on generation report for encoder's panel. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
