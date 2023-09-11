@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.17.2.167</version>
+		<version>1.17.2.168</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>b9e9b70ba7129b4db510a16609b6941d</md5>
-		<description> &#xA; => WHAT'S NEW (As of September 6, 2023 @ 3PM) &#xA;&#xA;1. Fixed some bugs on newly created account and assigning of branches. </description>
+		<md5>cedb0b255be83f78ef3da510ef08d8bd</md5>
+		<description> &#xA; => WHAT'S NEW (As of September 11, 2023 @ 1PM) &#xA;&#xA;1. Fixed some bugs on summary report generation. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
