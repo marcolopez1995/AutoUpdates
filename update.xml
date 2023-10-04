@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.18.0.172</version>
+		<version>1.18.0.173</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>0eaa86547b23e009557e70eb9c1abc12</md5>
-		<description> &#xA; => WHAT'S NEW (As of September 25, 2023 @ 1AM) &#xA;&#xA;1. Enhanced daily and consolidated report generation. </description>
+		<md5>e9290559c73a91a3bbf546d112e65f52</md5>
+		<description> &#xA; => WHAT'S NEW (As of September 25, 2023 @ 1AM) &#xA;&#xA;1. Fixed bugs on nonsales amount usages for daily basis.&#xA;2. Enhanced daily and consolidated report generation.&#xA;3. Remove BEG input in adding product stocks and nonsales for newly created branch. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
