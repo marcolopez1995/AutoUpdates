@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.18.0.174</version>
+		<version>1.18.0.175</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>90c65c39333b5864ac3bfa6fd0536703</md5>
-		<description> &#xA; => WHAT'S NEW (As of October 5, 2023 @ 1AM) &#xA;&#xA;1. Fixed bugs on unit price for nonsales items in daily report generation.</description>
+		<md5>4390acb3e4464f2eaf3b54e048391024</md5>
+		<description> &#xA; => WHAT'S NEW (As of October 9, 2023 @ 10AM) &#xA;&#xA;1. Fixed nonsales issues on daily and consolidated report generation.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
