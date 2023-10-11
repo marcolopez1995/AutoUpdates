@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.18.1.177</version>
+		<version>1.18.1.178</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>ae6e0002ea4e283e392f421d04973416</md5>
-		<description> &#xA; => WHAT'S NEW (As of October 11, 2023 @ 6AM) &#xA;&#xA;1. PM mancom summary report generation is now available. &#xA;2. Fixed some bugs on report generation. </description>
+		<md5>8e414fcf1880126be5eca4b1106c04d9</md5>
+		<description> &#xA; => WHAT'S NEW (As of October 11, 2023 @ 11AM) &#xA;&#xA;1. Resolved BO amount interchange problems for branches listed on the third page of the summary report within the OPEX sheet. </description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
