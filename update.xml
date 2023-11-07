@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.18.1.184</version>
+		<version>1.18.1.185</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>451ea80a05095afe784cd6214cee7ab4</md5>
-		<description> &#xA; => WHAT'S NEW (As of November 4, 2023 @ 12PM) &#xA;&#xA;1. Availability of Product Gross in summary report generation. &#xA;2. Enhanced system functionality.</description>
+		<md5>ea0cd785a67b4ca97689125dc4214790</md5>
+		<description> &#xA; => WHAT'S NEW (As of November 7, 2023 @ 2PM) &#xA;&#xA;1. Enhanced system functionality and report generation.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
