@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.198</version>
+		<version>1.19.0.199</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>5e9f8b2322dbf8c06015a985d5de9046</md5>
-		<description> &#xA; => WHAT'S NEW (As of December 10, 2023 @ 9AM) &#xA;&#xA;1. Fixed bugs on summary report generation.&#xA;2. Enhanced system functionality.</description>
+		<md5>74e2bd277e898e2172a8eb849f5af77f</md5>
+		<description> &#xA; => WHAT'S NEW (As of December 11, 2023 @ 9AM) &#xA;&#xA;1. Fixed BEG and LEFT quantity of LPG on report generation.&#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
