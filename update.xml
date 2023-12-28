@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.205</version>
+		<version>1.19.0.206</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>947e3d2ab7df1c9589a368ee53d89ad7</md5>
-		<description> &#xA; => WHAT'S NEW (As of December 27, 2023 @ 9AM) &#xA;&#xA;1. Fixed loading issue on adding product stocks.&#xA;2. Remove viewing product stocks.&#xA;3. Enhanced system functionality.</description>
+		<md5>f25ba45656964b0886d0ad546d0d23b7</md5>
+		<description> &#xA; => WHAT'S NEW (As of December 28, 2023 @ 8AM) &#xA;&#xA;1. Product stock transfer portal has been moved to the stocks entry point.&#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
