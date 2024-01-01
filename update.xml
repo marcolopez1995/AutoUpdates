@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.208</version>
+		<version>1.19.0.209</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>820584fd2e9042e74619485b4e167016</md5>
-		<description> &#xA; => WHAT'S NEW (As of December 29, 2023 @ 3PM) &#xA;&#xA;1. Resolved the data display issue related to date range selection when generating the daily report. &#xA;2. Enhanced system functionality.</description>
+		<md5>eb6fc3d15d67a101fff4ea6781779f05</md5>
+		<description> &#xA; => WHAT'S NEW (As of January 1, 2023 @ 3PM) &#xA;&#xA;1. Fixed issue on accessing cashier panel. &#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
