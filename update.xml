@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.209</version>
+		<version>1.19.0.210</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>eb6fc3d15d67a101fff4ea6781779f05</md5>
-		<description> &#xA; => WHAT'S NEW (As of January 1, 2023 @ 3PM) &#xA;&#xA;1. Fixed issue on accessing cashier panel. &#xA;2. Enhanced system functionality.</description>
+		<md5>b8471c6b711d2fa472defd865d6980e6</md5>
+		<description> &#xA; => WHAT'S NEW (As of January 3, 2024 @ 5AM) &#xA;&#xA;1. Resolved quantity display stocks being transferred. &#xA;2. Resolved OPEX viewing according to date selection. &#xA;3. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
