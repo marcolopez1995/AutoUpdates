@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.210</version>
+		<version>1.19.0.211</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>b8471c6b711d2fa472defd865d6980e6</md5>
-		<description> &#xA; => WHAT'S NEW (As of January 3, 2024 @ 5AM) &#xA;&#xA;1. Resolved quantity display stocks being transferred. &#xA;2. Resolved OPEX viewing according to date selection. &#xA;3. Enhanced system functionality.</description>
+		<md5>2a1ff9f9b592a2226bd0b1c00a11b3de</md5>
+		<description> &#xA; => WHAT'S NEW (As of January 3, 2024 @ 10PM) &#xA;&#xA;1. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
