@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.224</version>
+		<version>1.19.0.225</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>d227af414854ef01ec7158e18c33bbb3</md5>
-		<description> &#xA; => WHAT'S NEW (As of February 23, 2024 @ 9PM) &#xA;&#xA;1. Fixed prorated waiting issue on additional opex.&#xA;2 Fixed usage percentage on summary report.&#xA;3. Enhanced system functionality.</description>
+		<md5>c3366b0ead64fbc187e2ebd65897ee35</md5>
+		<description> &#xA; => WHAT'S NEW (As of February 24, 2024 @ 10AM) &#xA;&#xA;1. Fixed prorated waiting issue on additional opex.&#xA;2 Fixed usage percentage on summary report.&#xA;3. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
