@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.227</version>
+		<version>1.19.0.228</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>d530ef7f19bcccc313be5c3bf02c201c</md5>
-		<description> &#xA; => WHAT'S NEW (As of March 03, 2024 @ 3PM) &#xA;&#xA;1. Added stock transfer overwriting.&#xA;2. Enhanced system functionality.</description>
+		<md5>a7081aed879f1fe6df2982217cb73dd4</md5>
+		<description> &#xA; => WHAT'S NEW (As of March 03, 2024 @ 4PM) &#xA;&#xA;1. Removed stock transfer overwriting.&#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
