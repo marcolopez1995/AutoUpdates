@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.233</version>
+		<version>1.19.0.234</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4a2713668eba6ba36ac81af0c62fd022</md5>
-		<description> &#xA; => WHAT'S NEW (As of April 01, 2024 @ 3PM) &#xA;&#xA;1. Added prompt message upon adding on store closed.&#xA;2. Enhanced system functionality.</description>
+		<md5>eaff39128db461c3caac5f0d4b3c802d</md5>
+		<description> &#xA; => WHAT'S NEW (As of April 05, 2024 @ 11PM) &#xA;&#xA;1. Resolved summary stock transfer amount. &#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
