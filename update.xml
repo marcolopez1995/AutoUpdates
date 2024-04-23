@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.242</version>
+		<version>1.19.0.243</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4fb2b99ea73d8d558db09aef6b523a38</md5>
+		<md5>65d19af510e5e49baad62f7742fc5d3f</md5>
 		<description> &#xA; => WHAT'S NEW (As of April 23, 2024 @ 2PM) &#xA;&#xA;1. Relocate encoding percentage status on main panel. &#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
