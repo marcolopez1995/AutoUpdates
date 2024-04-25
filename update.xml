@@ -4,8 +4,8 @@
 		<version>1.19.0.248</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>0491ef2b4d5232714904a00a9facd980</md5>
-		<description> &#xA; => WHAT'S NEW (As of April 25, 2024 @ 10PM) &#xA;&#xA;1. Initiate auto-logout of session inactivity. &#xA;2. Fixed bugs on start-up loading issue. &#xA;3. Enhanced system functionality.</description>
+		<md5>2fa5f01c3472de182003ae083bb348b5</md5>
+		<description> &#xA; => WHAT'S NEW (As of April 25, 2024 @ 11PM) &#xA;&#xA;1. Initiate auto-logout of session inactivity. &#xA;2. Fixed bugs on start-up loading issue. &#xA;3. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
