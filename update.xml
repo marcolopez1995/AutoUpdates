@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.243</version>
+		<version>1.19.0.244</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>65d19af510e5e49baad62f7742fc5d3f</md5>
-		<description> &#xA; => WHAT'S NEW (As of April 23, 2024 @ 2PM) &#xA;&#xA;1. Relocate encoding percentage status on main panel. &#xA;2. Enhanced system functionality.</description>
+		<md5>0f321934ab82f61ba2603c7dd9bc9a35</md5>
+		<description> &#xA; => WHAT'S NEW (As of April 25, 2024 @ 11AM) &#xA;&#xA;1. Initiate auto-logout of session inactivity. &#xA;2. Fixed bugs on start-up loading issue. &#xA;3. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
