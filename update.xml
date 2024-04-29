@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.248</version>
+		<version>1.19.0.249</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>2f38bf3b0ed7251e9bd72c3acee3705e</md5>
-		<description> &#xA; => WHAT'S NEW (As of April 25, 2024 @ 11PM) &#xA;&#xA;1. Initiate auto-logout of session inactivity. &#xA;2. Fixed bugs on start-up loading issue. &#xA;3. Enhanced system functionality.</description>
+		<md5>b5eb8cdc6a57844bdac1774c6aa7d856</md5>
+		<description> &#xA; => WHAT'S NEW (As of April 29, 2024 @ 11AM) &#xA;&#xA;1. Fixed bugs on stock transfer amount. &#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
