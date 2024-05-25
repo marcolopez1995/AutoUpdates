@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.267</version>
+		<version>1.19.0.268</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>4c1e8962f5f9b7e63287675d3985fa35</md5>
-		<description> &#xA; => WHAT'S NEW (As of May 23, 2024 @ 10AM) &#xA;&#xA;1. Enhanced system functionality.</description>
+		<md5>a869bf98c59720ed591dffc1a3ea3018</md5>
+		<description> &#xA; => WHAT'S NEW (As of May 25, 2024 @ 10PM) &#xA;&#xA;1. Adjusted auditor's access level on branches handled per area.&#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
