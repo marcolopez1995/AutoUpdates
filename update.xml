@@ -4,8 +4,8 @@
 		<version>1.21.0.340</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>49dc85adad9d5b62eff7b4c34197d962</md5>
-		<description> &#xA; => WHAT'S NEW (As of October 07, 2026 @ 7PM) &#xA;&#xA;1. Fix bugs on variance issues. &#xA;2. Enhanced system functionality.</description>
+		<md5>27ad784d60b3afa6bd16dcd18999ab4d</md5>
+		<description> &#xA; => WHAT'S NEW (As of November 05, 2026 @ 9PM) &#xA;&#xA;1. Added INCENTIVES column to first page summary report generation. &#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
